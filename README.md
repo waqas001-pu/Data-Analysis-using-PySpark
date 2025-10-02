@@ -16,20 +16,6 @@ This project serves as a starting point for beginners in **Big Data & Data Engin
 
 ---
 
-📂 Project Structure
-pyspark-data-analysis/
-│── notebooks/
-│   └── Data_Analysis_using_PySpark.ipynb   # Main analysis notebook
-│
-│── data/                                   # (Optional - sample dataset if shareable)
-│   └── sample.csv
-│
-│── requirements.txt                        # Python dependencies
-│── README.md                               # Project documentation
-
-
----
-
 ⚙️ Installation & Setup
 
 1. Clone the repository
